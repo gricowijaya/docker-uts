@@ -1,0 +1,1 @@
+<?php echo "Jawaban UAS No5.<br> Nim: 2005551091"; phpinfo(); ?>
